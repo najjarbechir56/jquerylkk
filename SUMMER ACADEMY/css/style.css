@@ -1,0 +1,91 @@
+body{
+    background: linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+}
+#p{height: 700px;
+width:1500px;}
+#b
+{
+    height: 900px;
+    width: 1500px;
+    display: inline-block;
+}
+li{
+    display: inline;
+    margin-right:50px;}
+#bechir{
+        height: 200px;
+        width: 350px;
+        max-height: 450px;
+        max-width: 500px;
+
+    }
+  #taswira{ 
+      background-image:url(../1.PNG);
+      background-repeat: no-repeat;
+      width: 350px;
+      height: 250px;
+  
+}
+  #taswira1{
+      background-repeat: no-repeat;
+      background-image: url(../bbb.PNG);
+      width: 350px;
+      height: 250px;
+  }
+  #taswira2{
+      background-repeat: no-repeat;
+      background-image: url( ../ccc.PNG);
+      width: 350px;
+      height: 250px;
+    
+  }
+    .row{display: flex;
+    justify-content: center;
+    }
+    .bt{
+        margin: 100px;
+        display: none;
+
+    }
+    .row{margin-top: 50px}
+   #taswira3{
+       background-repeat: no-repeat;
+    background-image: url(../dddd.PNG);
+    width: 350px;
+    height: 250px;
+   }
+   #taswira4{
+       background-repeat: no-repeat;
+       background-image: url(../eeeee.PNG);
+       width: 350px;
+       height:250px
+       
+   }
+#taswira5{
+    background-repeat: no-repeat;
+    background-image: url(../ffffffff.PNG);
+    width: 350px;
+    height: 250px; 
+
+}
+#taswira6{
+    background-repeat: no-repeat;
+    background-image: url(../ggggg.PNG);
+    width: 350px;
+    height: 250px; 
+
+}
+#taswira7{
+    background-repeat: no-repeat;
+    background-image: url(../dddd.dd.PNG);
+    width: 350px;
+    height: 250px; 
+
+}
+#taswira8{
+    background-repeat: no-repeat;
+    background-image: url(../iiiiiiiiii.PNG);
+    width: 350px;
+    height: 250px; 
+
+}
